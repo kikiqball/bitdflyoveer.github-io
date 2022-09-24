@@ -1,0 +1,35 @@
+section{
+    height: 2135px;
+    width: 1200px;
+    margin-left: 20em;
+    background-color: none;
+}
+
+.header-creator{
+    display: inline;
+    position: absolute;
+    margin-top: 5em;
+    margin-left: 20px;
+}
+
+.web-creator{
+    position: relative;
+    font-size: 25px;
+    margin: -23px 40em;
+    font-family: 'Urbanist', sans-serif;
+}
+
+.creator{
+    position: relative;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Urbanist', sans-serif;
+}
+
+h1{
+    width: -20px;
+    position: relative;
+    font-size: 96px;
+    margin-top: 5em;
+    font-family: 'Sora', sans-serif;
+}
